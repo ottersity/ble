@@ -6,9 +6,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/go-ble/ble"
-	"github.com/go-ble/ble/linux/adv"
-	"github.com/go-ble/ble/linux/gatt"
+	"github.com/ottersity/ble"
+	"github.com/ottersity/ble/linux/adv"
+	"github.com/ottersity/ble/linux/gatt"
 	"github.com/pkg/errors"
 )
 
