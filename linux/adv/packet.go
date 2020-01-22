@@ -1,8 +1,7 @@
-package adv
+package advgithub.com/go-ble
 
 import (
 	"encoding/binary"
-
 	"github.com/ottersity/ble"
 )
 
