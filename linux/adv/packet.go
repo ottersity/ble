@@ -1,4 +1,4 @@
-package advgithub.com/go-ble
+package adv
 
 import (
 	"encoding/binary"
